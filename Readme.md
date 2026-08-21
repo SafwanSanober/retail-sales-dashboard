@@ -1,4 +1,4 @@
-# 📊 Retail Sales Performance Dashboard — Power BI
+# 📊 Retail Sales Performance Dashboard Power BI
 
 An interactive Power BI dashboard providing a comprehensive analysis of retail sales data — tracking total revenue, orders, quantity, monthly trends, customer-wise performance, and country-wise distribution.
 
