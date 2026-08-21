@@ -14,7 +14,10 @@ An interactive Power BI dashboard providing a comprehensive analysis of retail s
 
 ## 🖼️ Preview
 
-![Dashboard Overview](screenshots/overview.png)
+### Report View
+![Report View](screenshots/Report-view.png)
+### Model View
+![Model View](screenshots/Model-view.png)
 
 ## 🛠️ Built With
 - Power BI Desktop
